@@ -1,0 +1,17 @@
+Mon petit wiki.
+Ensemble de pages succinctes et techniques pour traiter rapidement un sujet précis.
+
+[[tmp_liens]]
+
+* Desktop
+**[[Services windows]]
+* CSS
+**[[bootstrap]]
+*[[Javascript]]
+**[[Webapp offline]]
+**[[Chrome extension]]
+* Backend
+**[[Restfull api design]]
+**[[Syntaxe XML Spring]]
+**[[Scala]]
+* [[Server]]
