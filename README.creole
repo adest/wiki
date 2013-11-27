@@ -4,7 +4,7 @@ Ensemble de pages succinctes et techniques pour traiter rapidement un sujet pré
 [[tmp_liens]]
 
 * Desktop
-**[[Service-windows.creole | Services windows]]
+**[[Services-windows.creole | Services windows]]
 * CSS
 **[[bootstrap.md | bootstrap]]
 *[[Javasript.creole | Javascript]]
