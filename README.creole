@@ -4,10 +4,10 @@ Ensemble de pages succinctes et techniques pour traiter rapidement un sujet pré
 [[tmp_liens]]
 
 * Desktop
-**[[Services windows]]
+**[[Service-windows.creole | Services windows]]
 * CSS
-**[[bootstrap]]
-*[[Javascript]]
+**[[bootstrap.md | bootstrap]]
+*[[Javasript.creole | Javascript]]
 **[[Webapp offline]]
 **[[Chrome extension]]
 * Backend
