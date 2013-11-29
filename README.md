@@ -8,7 +8,7 @@ Ensemble de pages succinctes et techniques pour traiter rapidement un sujet pré
     - [Services windows](system/Services-windows.creole)
 - CSS
     - [BootStrap](frontend/bootstrap.md)
-- [Javascript](frontend/Javasript.creole)
+- [Javascript](frontend/Javascript.creole)
     - [Webapp offline](frontend/Webb-app.creole)
     - [Chrome extension](frontend/Chrome-extension.creole)
 - Backend
