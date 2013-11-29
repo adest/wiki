@@ -9,7 +9,7 @@ Ensemble de pages succinctes et techniques pour traiter rapidement un sujet pré
 - CSS
     - [BootStrap](frontend/bootstrap.md)
 - [Javascript](frontend/Javascript.creole)
-    - [Webapp offline](frontend/Webb-app.creole)
+    - [Webapp offline](frontend/Web-app.creole)
     - [Chrome extension](frontend/Chrome-extension.creole)
 - Backend
     - [Restfull api design](backend/Restful-api-design.creole)
