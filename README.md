@@ -2,7 +2,7 @@ Mon petit wiki.
 ===============
 Ensemble de pages succinctes et techniques pour traiter rapidement un sujet précis.
 
-[tmp_liens](tmp/tmp_links.md)
+[tmp_liens](tmp/tmp-links.md)
 
 - Desktop
     - [Services windows](system/Services-windows.creole)
