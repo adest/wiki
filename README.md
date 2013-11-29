@@ -13,6 +13,6 @@ Ensemble de pages succinctes et techniques pour traiter rapidement un sujet pré
     - [Chrome extension](frontend/Chrome-extension.creole)
 - Backend
     - [Restfull api design](backend/Restful-api-design.creole)
-    - [Syntaxe XML Spring](Syntax-xml-spring.md)
+    - [Syntaxe XML Spring](backend/Syntax-xml-spring.md)
     - [Scala](backend/Scala.creole)
 - [Server](backend/Server.creole)
