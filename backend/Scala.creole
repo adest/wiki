@@ -1,3 +1,0 @@
-== Learning resources ==
-* [[Scala Cheat Sheet]]
-* [[Scalex | http://scalex.org/]]

@@ -1,0 +1,8 @@
+install
+=======
+    sc create 
+
+run
+===
+    NET START <service>
+    NET STOP <service>
