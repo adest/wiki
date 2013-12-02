@@ -3,6 +3,7 @@
 * [fiddle2](http://fiddler2.com/) Web debugging proxy
 * [Lean startup](http://blog.logoenvue.fr/entrepreneuriat-startup/comment-utiliser-lean-canvas-1571)
 
+---
 * [Color palettes](http://webdesignledger.com/tips/color-links-books-tools-to-make-your-life-easier)
 * [Et le site d'ou est tiré l'article](http://webdesignledger.com/category/tips)
 
