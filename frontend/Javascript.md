@@ -1,0 +1,24 @@
+== Code structure ==
+* [AngularJS DI vs requireJS ou comment modulariser du code js](http://solutionoptimist.com/2013/09/30/requirejs-angularjs-dependency-injection/) ++++
+
+== Manipulation du DOM ==
+* [jQuery](https://jquery.org/)
+    ** [Onepage scroll](http://www.thepetedesign.com/demos/onepage_scroll_demo.html) Plugin pour faire une navigation a base de scroll basé sur les section html 5
+
+== Framework ==
+* [AngularJS](http://angularjs.org/)
+* [AngularUI](http://angular-ui.github.io/)
+
+== Third party ==
+* Data-Driven Documents
+    ** Permet de manipuler le DOM en fonction de données. Cas typique d'utilisation des charts en fonction de données, ou un tableau en fonction de ses même données. etc.
+    ** d3.js [](http://d3js.org/) Framework data driver document
+
+== Conflit lib JS ==
+{{{
+(function( $ ) {
+  $(function() {
+    // More code using $ as alias to jQuery
+  });
+})(jQuery);
+}}}

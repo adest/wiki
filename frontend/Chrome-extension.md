@@ -1,0 +1,2 @@
+* [Scalfold chrome app](http://extensionizr.com/)
+* [Some chrome extension code samples](https://github.com/NewTabPage/)
