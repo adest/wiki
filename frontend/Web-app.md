@@ -24,17 +24,19 @@ Il est possible d’ajouter différentes sections à notre fichier manifest:
 * NETWORK, qui liste les fichiers qui nécessitent obligatoirement une connexion internet.
 * FALLBACK, qui liste les fichiers qui, au cas où ils ne soient pas accessibles en ligne, doivent renvoyer vers d’autres fichiers.
 
+ex:
+
     CACHE MANIFEST
     # v0.1
-    
+
     CACHE:
     index.html
     css/style.css
     img/logo.png
-     
+
     FALLBACK:
     / /offline.html
-     
+ 
     NETWORK:
     *
 
