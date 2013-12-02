@@ -8,9 +8,9 @@ Ensemble de pages succinctes et techniques pour traiter rapidement un sujet pré
     - [Services windows](system/Services-windows.creole)
 - CSS
     - [BootStrap](frontend/bootstrap.md)
-- [Javascript](frontend/Javascript.creole)
+- [Javascript](frontend/Javascript.md)
     - [Webapp offline](frontend/Web-app.creole)
-    - [Chrome extension](frontend/Chrome-extension.creole)
+    - [Chrome extension](frontend/Chrome-extension.md)
 - Backend
     - [Restfull api design](backend/Restful-api-design.creole)
     - [Syntaxe XML Spring](backend/Syntax-xml-spring.md)
