@@ -10,6 +10,7 @@ Manipulation du DOM
 Framework
 =========
 * [AngularJS](http://angularjs.org/)
+   ** [Angular chart](http://chinmaymk.github.io/angular-charts/)
 * [AngularUI](http://angular-ui.github.io/)
 
 Third party
