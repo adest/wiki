@@ -12,6 +12,7 @@ Ensemble de pages succinctes et techniques pour traiter rapidement un sujet pré
     - [Webapp offline](frontend/Web-app.creole)
     - [Chrome extension](frontend/Chrome-extension.md)
 - Backend
+    - [Java synchronized](backend/Synchronized-java.md)
     - [Restfull api design](backend/Restful-api-design.md)
     - [Syntaxe XML Spring](backend/Syntax-xml-spring.md)
     - [Scala](backend/Scala.md)
