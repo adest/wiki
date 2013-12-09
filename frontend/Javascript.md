@@ -5,12 +5,12 @@ Code structure
 Manipulation du DOM
 ===================
 * [jQuery](https://jquery.org/)
-    ** [Onepage scroll](http://www.thepetedesign.com/demos/onepage_scroll_demo.html) Plugin pour faire une navigation a base de scroll basé sur les section html 5
+   * [Onepage scroll](http://www.thepetedesign.com/demos/onepage_scroll_demo.html) Plugin pour faire une navigation a base de scroll basé sur les section html 5
 
 Framework
 =========
 * [AngularJS](http://angularjs.org/)
-   ** [Angular chart](http://chinmaymk.github.io/angular-charts/)
+   * [Angular chart](http://chinmaymk.github.io/angular-charts/)
 * [AngularUI](http://angular-ui.github.io/)
 
 Third party
