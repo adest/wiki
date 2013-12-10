@@ -6,6 +6,7 @@ Code structure
 
 Angular
 -------
+* [Bonnes pratiques](https://github.com/mgechev/angularjs-style-guide)
 * Suite d'article sur la creation de directive reutilisable
   * [Create reusable components](http://blog.revolunet.com/blog/2013/11/28/create-resusable-angularjs-input-component/)
   * [test the component](http://blog.revolunet.com/blog/2013/12/05/unit-testing-angularjs-directive/)
