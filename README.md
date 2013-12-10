@@ -2,7 +2,7 @@ Mon petit wiki.
 ===============
 Ensemble de pages succinctes et techniques pour traiter rapidement un sujet précis.
 
-[tmp_liens](tmp/tmp-links.md)
+[Entete et Sidebar pour les wiki Github](http://blackbe.lt/github-wiki-sidebar-table-contents-header-footer/)
 
 - System
     - [Services windows](system/Services-windows.md)
@@ -19,3 +19,5 @@ Ensemble de pages succinctes et techniques pour traiter rapidement un sujet pré
 - Frontend
     - [Resource java FX](http://fxexperience.com/)
 - [Server](backend/Server.md)
+
+[tmp_liens](tmp/tmp-links.md)
