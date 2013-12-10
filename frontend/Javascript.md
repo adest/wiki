@@ -6,8 +6,9 @@ Code structure
 
 Angular
 -------
-* [Create reusable components](http://blog.revolunet.com/blog/2013/11/28/create-resusable-angularjs-input-component/)
-* [Follow previous article, but treat about test aspect](http://blog.revolunet.com/blog/2013/12/05/unit-testing-angularjs-directive/)
+* Suite d'article sur la creation de directive reutilisable
+  * [Create reusable components](http://blog.revolunet.com/blog/2013/11/28/create-resusable-angularjs-input-component/)
+  * [test the component](http://blog.revolunet.com/blog/2013/12/05/unit-testing-angularjs-directive/)
 
 Manipulation du DOM
 ===================
