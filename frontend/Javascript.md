@@ -19,6 +19,7 @@ Framework
 =========
 * [AngularJS](http://angularjs.org/)
    * [Angular chart](http://chinmaymk.github.io/angular-charts/)
+   * [Ionic](http://ionicframework.com/) framework mobile qui encapsule Cordova et repose sur AngularJS
 * [AngularUI](http://angular-ui.github.io/)
 
 Third party
