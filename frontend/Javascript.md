@@ -6,6 +6,7 @@ Code structure
 
 Angular
 -------
+* [Slides sur les app web mobile avec Angular](http://blog.revolunet.com/angular-for-mobile/)
 * [Bonnes pratiques](https://github.com/mgechev/angularjs-style-guide)
 * Suite d'article sur la creation de directive reutilisable
   * [Create reusable components](http://blog.revolunet.com/blog/2013/11/28/create-resusable-angularjs-input-component/)
