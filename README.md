@@ -21,6 +21,9 @@ Ensemble de pages succinctes et techniques pour traiter rapidement un sujet pré
         - [Chrome extension](frontend/Chrome-extension.md)
     - Java    
         - [Resource java FX](http://fxexperience.com/)
+- Hibride
+    - [Reactive programming in dart](http://victorsavkin.com/post/55007674849/functional-reactive-programming-in-dart)
+    - [Actors in dart](https://github.com/vsavkin/actors)
 - [Server](backend/Server.md)
 
 [tmp_liens](tmp/tmp-links.md)
