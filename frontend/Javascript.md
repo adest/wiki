@@ -6,7 +6,7 @@ Code structure
 
 Angular
 -------
-* [Concurent de Yehoman uniquement pour angular](http://vesparny.github.io/ng-kickstart/#/home)
+* [Concurent de Yeoman.io uniquement pour angular](http://vesparny.github.io/ng-kickstart/#/home)
 * [Slides sur les app web mobile avec Angular](http://blog.revolunet.com/angular-for-mobile/)
 * [Bonnes pratiques](https://github.com/mgechev/angularjs-style-guide)
 * Suite d'article sur la creation de directive reutilisable
