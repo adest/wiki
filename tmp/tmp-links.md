@@ -6,6 +6,10 @@
 ---
 * [Color palettes](http://webdesignledger.com/tips/color-links-books-tools-to-make-your-life-easier)
 * [Et le site d'ou est tiré l'article](http://webdesignledger.com/category/tips)
+ 
+* [Astuces sublime text](http://sametmax.com/10-astuces-pour-sublime-text-2/)
+* [The same](http://www.sublimetext.com/docs/selection)
+
 
 Android recovery mode
 =====================
