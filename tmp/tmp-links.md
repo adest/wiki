@@ -9,6 +9,7 @@
  
 * [Astuces sublime text](http://sametmax.com/10-astuces-pour-sublime-text-2/)
 * [The same](http://www.sublimetext.com/docs/selection)
+* [brackets(Ide Web)](http://brackets.io/)
 
 
 Android recovery mode
