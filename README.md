@@ -3,6 +3,7 @@ Mon petit wiki.
 Ensemble de pages succinctes et techniques pour traiter rapidement un sujet précis.
 
 [Entete et Sidebar pour les wiki Github](http://blackbe.lt/github-wiki-sidebar-table-contents-header-footer/)
+[Idées dev](tmp/idee-dev.md)
 
 - System
     - [Services windows](system/Services-windows.md)
