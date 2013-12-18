@@ -15,6 +15,8 @@ Ensemble de pages succinctes et techniques pour traiter rapidement un sujet pré
 - Frontend
     - [HTML5 Ninja: Marketplace](http://html5-ninja.com/#/home) Theme, components etc
     - [UIKit](http://www.getuikit.com/) Tollkit front end (composants responsives) (markup+css+js)
+    - Composants
+        - [Dynatable](http://www.dynatable.com/) json data as html tables
     - CSS
         - [BootStrap](frontend/bootstrap.md)
     - [Javascript](frontend/Javascript.md)
