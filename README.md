@@ -26,7 +26,7 @@ Ensemble de pages succinctes et techniques pour traiter rapidement un sujet pré
         - [Chrome extension](frontend/Chrome-extension.md)
     - Java    
         - [Resource java FX](http://fxexperience.com/)
-        - [Log4j CheetScheat](https://drive.google.com/file/d/0BzuW00k_JmaQMElDWWE2TEtlMFU/edit?usp=sharing)
+        - [Log4j CheetScheat](backend/resources/Log4jQuickRef.pdf)
 - Hybride
     - [Reactive programming in dart](http://victorsavkin.com/post/55007674849/functional-reactive-programming-in-dart)
     - [Actors in dart](https://github.com/vsavkin/actors)
