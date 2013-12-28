@@ -7,6 +7,7 @@ Ensemble de pages succinctes et techniques pour traiter rapidement un sujet pré
 [Idées dev](tmp/idee-dev.md)
 
 - System
+    - [Racourcis windows 8](http://windows.microsoft.com/fr-fr/windows-8/keyboard-shortcuts)
     - [Services windows](system/Services-windows.md)
 
 - Backend
