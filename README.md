@@ -34,5 +34,8 @@ Ensemble de pages succinctes et techniques pour traiter rapidement un sujet pré
 - [Server](backend/Server.md)
 - Test
     - [Test fonctionnels avec fluentlenium](http://thierry-leriche-dessirier.developpez.com/tutoriels/javaweb/tester-webapp-fluentlenium-5min/)
+    - Exemple de test fonctionnel avec cucumber et fluentlenium
+        - [article](http://blog.jetoile.fr/2013/04/fluentlenium-et-cucumber-jvm-complement.html)
+        - [exemple](https://github.com/FluentLenium/fluentlenium-cucumber)
 
 [tmp_liens](tmp/tmp-links.md)
