@@ -9,7 +9,7 @@ Angular
 * [Concurent de Yeoman.io uniquement pour angular](http://vesparny.github.io/ng-kickstart/#/home)
 * [Slides sur les app web mobile avec Angular](http://blog.revolunet.com/angular-for-mobile/)
 * [Bonnes pratiques](https://github.com/mgechev/angularjs-style-guide)
-* [Enssemble de directives sympa (peu servir d'exemple de code)](http://clouddueling.github.io/angular-common/)
+* [Angular common - Enssemble de directives sympa (peu servir d'exemple de code)](http://clouddueling.github.io/angular-common/)
 * Suite d'article sur la creation de directive reutilisable
   * [Create reusable components](http://blog.revolunet.com/blog/2013/11/28/create-resusable-angularjs-input-component/)
   * [test the component](http://blog.revolunet.com/blog/2013/12/05/unit-testing-angularjs-directive/)
