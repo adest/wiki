@@ -13,6 +13,7 @@ Ensemble de pages succinctes et techniques pour traiter rapidement un sujet pré
 
 - Backend
     - [Java synchronized](backend/Synchronized-java.md)
+    - [Java Oauth lib](https://github.com/fernandezpablo85/scribe-java)
     - [Restfull api design](backend/Restful-api-design.md)
     - [Restfull app with Spring](https://spring.io/guides/gs/rest-service/)
     - [Syntaxe XML Spring](backend/Syntax-xml-spring.md)
