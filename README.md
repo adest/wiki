@@ -20,7 +20,7 @@ Ensemble de pages succinctes et techniques pour traiter rapidement un sujet pré
     - [Scala](backend/Scala.md)
 - Frontend
     - [Dart web component polymer](https://github.com/MikeMitterer/DART-Sample-PolymerHelloWorld)
-    - [WebComponents polyfils](http://mozilla.github.io/brick/)
+    - [WebComponents polymer](http://mozilla.github.io/brick/)
     - [HTML5 Ninja: Marketplace](http://html5-ninja.com/#/home) Theme, components etc
     - [UIKit](http://www.getuikit.com/) Tollkit front end (composants responsives) (markup+css+js)
     - Composants
