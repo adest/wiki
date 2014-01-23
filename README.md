@@ -35,6 +35,9 @@ Ensemble de pages succinctes et techniques pour traiter rapidement un sujet pré
 - Hybride
     - [Reactive programming in dart](http://victorsavkin.com/post/55007674849/functional-reactive-programming-in-dart)
     - [Actors in dart](https://github.com/vsavkin/actors)
+- Mobile
+    - [Cordoba tuto](http://coenraets.org/blog/cordova-phonegap-3-tutorial/)
+    - [And the AngularJs impl](http://coenraets.org/blog/2013/11/sample-mobile-application-with-angularjs/)
 - [Server](backend/Server.md)
 - Test
     - [Test fonctionnels avec fluentlenium](http://thierry-leriche-dessirier.developpez.com/tutoriels/javaweb/tester-webapp-fluentlenium-5min/)
