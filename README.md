@@ -32,6 +32,8 @@ Ensemble de pages succinctes et techniques pour traiter rapidement un sujet pré
     - [Javascript](frontend/Javascript.md)
         - [Webapp offline](frontend/Web-app.creole)
         - [Chrome extension](frontend/Chrome-extension.md)
+    - SVG
+        - [Fluent svg maniulation api](https://github.com/andreaferretti/paths-js)
     - Java    
         - [Resource java FX](http://fxexperience.com/)
         - [Log4j CheetScheat](backend/resources/Log4jQuickRef.pdf)
