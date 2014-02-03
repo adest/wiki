@@ -11,6 +11,9 @@ Ensemble de pages succinctes et techniques pour traiter rapidement un sujet pré
     - [Services windows](system/Services-windows.md)
     - [Raccourcis godmod](system/Shortcut-GodMod.md)
 
+- Design pattern
+    - [Builder](http://cheliou.developpez.com/tutoriels/software-craftsmanship/object-building/)
+
 - Backend
     - [Java synchronized](backend/Synchronized-java.md)
     - [Java Oauth lib](https://github.com/fernandezpablo85/scribe-java)
