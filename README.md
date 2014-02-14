@@ -53,4 +53,6 @@ Ensemble de pages succinctes et techniques pour traiter rapidement un sujet pré
         - [article](http://blog.jetoile.fr/2013/04/fluentlenium-et-cucumber-jvm-complement.html)
         - [exemple](https://github.com/FluentLenium/fluentlenium-cucumber)
 
+- [tuto web design](http://www.stpo.fr/blog/guerilla-web-design-une-page-web-pro-avec-un-budget-mini/)
+
 [tmp_liens](tmp/tmp-links.md)
