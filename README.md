@@ -13,8 +13,8 @@ Ensemble de pages succinctes et techniques pour traiter rapidement un sujet pré
 
 - Design pattern
     - [Builder](http://cheliou.developpez.com/tutoriels/software-craftsmanship/object-building/)
-
-- [Server](backend/Server.md)
+- Backend
+    - [Log4j CheetScheat](backend/resources/Log4jQuickRef.pdf)
     - [Java synchronized](backend/Synchronized-java.md)
     - [Java Oauth lib](https://github.com/fernandezpablo85/scribe-java)
     - [Restfull api design](backend/Restful-api-design.md)
@@ -23,6 +23,7 @@ Ensemble de pages succinctes et techniques pour traiter rapidement un sujet pré
     - [Scala](backend/Scala.md)
     - [Personal cloud with drop box or drive](http://nimbusbase.com/index.html)
     - [Discover Drive](http://campus.codeschool.com/courses/discover-drive/intro) Cours sur l'usage des api google drive
+- [Servers](backend/Server.md)
 - Frontend
     - [Dart web component polymer](https://github.com/MikeMitterer/DART-Sample-PolymerHelloWorld)
     - [WebComponents polymer](http://mozilla.github.io/brick/)
@@ -43,9 +44,8 @@ Ensemble de pages succinctes et techniques pour traiter rapidement un sujet pré
     - SVG
         - [Fluent svg maniulation api](https://github.com/andreaferretti/paths-js)
     - Java    
-        - [Resource java FX](http://fxexperience.com/)
-        - [Log4j CheetScheat](backend/resources/Log4jQuickRef.pdf)
-- Hybride
+        - [Resource java FX](http://fxexperience.com/) 
+- Hybride (dart)
     - [Reactive programming in dart](http://victorsavkin.com/post/55007674849/functional-reactive-programming-in-dart)
     - [Actors in dart](https://github.com/vsavkin/actors)
 - Mobile
