@@ -1,4 +1,3 @@
-* [codepen](http://codepen.io/) Composants html 5
 * [Debuggex](https://www.debuggex.com/)
 * [Tanaguru - contrast help](http://www.alsacreations.com/outils/lire/1606-tanaguru-contrast-finder.html)
 * [ColorPIX](http://www.colorschemer.com/colorpix_info.php)
