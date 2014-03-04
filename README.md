@@ -56,5 +56,6 @@ Ensemble de pages succinctes et techniques pour traiter rapidement un sujet pré
         - [exemple](https://github.com/FluentLenium/fluentlenium-cucumber)
 
 - [tuto web design](http://www.stpo.fr/blog/guerilla-web-design-une-page-web-pro-avec-un-budget-mini/)
+- [2d skeletal animation](http://esotericsoftware.com/)
 
 [tmp_liens](tmp/tmp-links.md)
