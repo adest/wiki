@@ -14,7 +14,7 @@ Ensemble de pages succinctes et techniques pour traiter rapidement un sujet pré
 - Design pattern
     - [Builder](http://cheliou.developpez.com/tutoriels/software-craftsmanship/object-building/)
 
-- Backend
+- [Server](backend/Server.md)
     - [Java synchronized](backend/Synchronized-java.md)
     - [Java Oauth lib](https://github.com/fernandezpablo85/scribe-java)
     - [Restfull api design](backend/Restful-api-design.md)
@@ -29,8 +29,10 @@ Ensemble de pages succinctes et techniques pour traiter rapidement un sujet pré
     - [HTML5 Ninja: Marketplace](http://html5-ninja.com/#/home) Theme, components etc
     - [codepen](http://codepen.io/) Composants html 5
     - [UIKit](http://www.getuikit.com/) Tollkit front end (composants responsives) (markup+css+js)
+    - [7 libs pour du Full page](http://www.blogduwebdesign.com/ressource-javascript/creer-site-full-page-parallax-skrollr/1062)
     - Composants
         - [Dynatable](http://www.dynatable.com/) json data as html tables
+        - [parallax](http://wagerfield.github.io/parallax/)
     - CSS
         - [BootStrap](frontend/bootstrap.md)
         - [Foundation](http://foundation.zurb.com/)
@@ -49,13 +51,12 @@ Ensemble de pages succinctes et techniques pour traiter rapidement un sujet pré
 - Mobile
     - [Cordoba tuto](http://coenraets.org/blog/cordova-phonegap-3-tutorial/)
     - [And the AngularJs impl](http://coenraets.org/blog/2013/11/sample-mobile-application-with-angularjs/)
-- [Server](backend/Server.md)
 - Test
     - [Test fonctionnels avec fluentlenium](http://thierry-leriche-dessirier.developpez.com/tutoriels/javaweb/tester-webapp-fluentlenium-5min/)
     - Exemple de test fonctionnel avec cucumber et fluentlenium
         - [article](http://blog.jetoile.fr/2013/04/fluentlenium-et-cucumber-jvm-complement.html)
         - [exemple](https://github.com/FluentLenium/fluentlenium-cucumber)
-
+- Design
 - [tuto web design](http://www.stpo.fr/blog/guerilla-web-design-une-page-web-pro-avec-un-budget-mini/)
 - [2d skeletal animation](http://esotericsoftware.com/)
 
