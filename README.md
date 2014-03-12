@@ -57,7 +57,9 @@ Ensemble de pages succinctes et techniques pour traiter rapidement un sujet pré
         - [article](http://blog.jetoile.fr/2013/04/fluentlenium-et-cucumber-jvm-complement.html)
         - [exemple](https://github.com/FluentLenium/fluentlenium-cucumber)
 - Design
-- [tuto web design](http://www.stpo.fr/blog/guerilla-web-design-une-page-web-pro-avec-un-budget-mini/)
-- [2d skeletal animation](http://esotericsoftware.com/)
+    - [tuto web design](http://www.stpo.fr/blog/guerilla-web-design-une-page-web-pro-avec-un-budget-mini/)
+    - [2d skeletal animation](http://esotericsoftware.com/)
+- Materiel
+    - [Demarrer une allim sans CM](http://www.adnpc.net/articles/54-demarrer-une-alimentation-atx-sans-carte-mere/1-la-jonction-des-2-pins.html)
 
 [tmp_liens](tmp/tmp-links.md)
