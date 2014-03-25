@@ -12,6 +12,7 @@ Ensemble de pages succinctes et techniques pour traiter rapidement un sujet pré
     - [Raccourcis godmod](system/Shortcut-GodMod.md)
 
 - Design pattern
+    - [Singleton (synchro, serialisation) [http://thecodersbreakfast.net/index.php?post/2008/02/25/26-de-la-bonne-implementation-du-singleton-en-java]
     - [Builder](http://cheliou.developpez.com/tutoriels/software-craftsmanship/object-building/)
 - Backend
     - [Log4j CheetScheat](backend/resources/Log4jQuickRef.pdf)
