@@ -32,6 +32,8 @@ Ensemble de pages succinctes et techniques pour traiter rapidement un sujet pré
     - [codepen](http://codepen.io/) Composants html 5
     - [UIKit](http://www.getuikit.com/) Tollkit front end (composants responsives) (markup+css+js)
     - [7 libs pour du Full page](http://www.blogduwebdesign.com/ressource-javascript/creer-site-full-page-parallax-skrollr/1062)
+    - Outils
+        - [annimation softwares links](http://ethicalweb.blogspot.fr/2014/03/html5-animation-tools.html)
     - Composants
         - [Dynatable](http://www.dynatable.com/) json data as html tables
         - [parallax](http://wagerfield.github.io/parallax/)
