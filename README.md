@@ -27,6 +27,7 @@ Ensemble de pages succinctes et techniques pour traiter rapidement un sujet pré
     - [Discover Drive](http://campus.codeschool.com/courses/discover-drive/intro) Cours sur l'usage des api google drive
 - [Servers](backend/Server.md)
 - Frontend
+    - [Web component - future of the web](http://www.infinum.co/the-capsized-eight/articles/web-components-building-blocks-of-the-future-web?utm_content=buffer14c4c&utm_medium=social&utm_source=plus.google.com&utm_campaign=buffer)
     - [Dart web component polymer](https://github.com/MikeMitterer/DART-Sample-PolymerHelloWorld)
     - [WebComponents polymer](http://mozilla.github.io/brick/)
     - [HTML5 Ninja: Marketplace](http://html5-ninja.com/#/home) Theme, components etc
