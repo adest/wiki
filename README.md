@@ -45,6 +45,7 @@ Ensemble de pages succinctes et techniques pour traiter rapidement un sujet pré
         - [Foundation - Ink](http://zurb.com/ink/)
     - [Javascript](frontend/Javascript.md)
         - [React.js](http://facebook.github.io/react/) - Framework leger de composant javascript (V de MVC) utilisé par facebook
+        - [react.js vs angular.is](http://stackoverflow.com/questions/21111217/react-vs-angular)
         - [Webapp offline](frontend/Web-app.creole)
         - [Chrome extension](frontend/Chrome-extension.md)
     - SVG
