@@ -1,7 +1,0 @@
-Server
-======
-Tomcat
-------
-* Auth
-    * http://beuss.developpez.com/tutoriels/tomcat/authentification/formulaire/#LIV
-    * http://www-igm.univ-mlv.fr/~dr/XPOSE2003/tomcat/tomcat.php?rub=18
